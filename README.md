@@ -30,4 +30,3 @@
 - Necessario o uso do arquivo chromedriver.exe (caso esteja usando o google chrome) para que o SELENIUM possa abrir e usar o BROWSER.
 - Site para download do arquivo: https://chromedriver.chromium.org/downloads a versão é a mesma que a do BROWSER
 - A senha para o envio do e-mail deve ser gerado em Segurança, na conta do Gmail -> Gerir Conta/Segurança/Iniciar Sessão no Goole/Palavra-Passe de Aplicações/ e Gere sua senha para uso.
-# Projeto_Automacao_Web_Scraping
